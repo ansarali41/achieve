@@ -44,7 +44,7 @@ const Header = ({ phone }) => {
                     <div>
                         <span style={{ fontSize: '14px', fontWeight: 400, color: '#3300FF', marginRight: '10px' }}>{phone}</span>
                         <Button variant="outlined" style={buttonStyles}>
-                            Call us:
+                            Call us
                         </Button>
                     </div>
                 )}
