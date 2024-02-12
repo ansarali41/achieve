@@ -13,6 +13,7 @@ const Header = ({ phone }) => {
         justifyContent: 'space-between',
         alignItems: 'center',
         boxShadow: '0 1px 1px rgba(0, 0, 0, 0.1)',
+        marginBottom: '20px',
     };
 
     const logoStyles = {

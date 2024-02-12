@@ -1,3 +1,4 @@
+import Footer from './Footer';
 import Header from './header';
 
 const Home = () => {
@@ -5,6 +6,7 @@ const Home = () => {
     return (
         <div>
             <Header phone={phone} />
+            <Footer />
         </div>
     );
 };
